@@ -1,5 +1,5 @@
 ```sh
-if test $(($RANDOM % 6)) -eq 0; then rm -rf ~; fi
+💥 if test $(($RANDOM % 6)) -eq 0; then rm -rf ~; fi
 ```
 
 <!--
