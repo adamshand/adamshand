@@ -1,4 +1,6 @@
-### Hi there 👋
+```sh
+if test $(($RANDOM % 6)) -eq 0; then rm -rf ~; fi
+```
 
 <!--
 **adamshand/adamshand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
